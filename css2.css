@@ -1,0 +1,45 @@
+.background{
+    background-image: url(./img/background.jpg)
+}
+
+
+.h1{
+    color: #ffffff;
+    text-shadow: 1px 1px 1px black;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.h2{
+    margin-left: 25px;
+    color: #ffffff;
+    text-shadow: 1px 1px 1px black;
+}
+
+.h3{
+    font-family: Montserrat;
+    text-align: right;
+    margin-right: 50px;
+}
+
+.soup{
+    height: 200px;
+    margin-top: 18px;
+}
+
+.ezogelin2{
+    text-align:justify;
+
+    margin-top: 25px;
+    color: rgb(0, 0, 0);
+}
+
+.button{
+    height: 40px;
+    margin-left: 875px;
+}
+
+#first{
+    margin-top: 75px;
+}

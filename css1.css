@@ -3,6 +3,10 @@ font-family: montserrat;
 font-size: 25px;
 }
 
+.nb2{
+    color: black !important;
+}
+
 #slider1{
 margin-bottom: 300px;
 }
